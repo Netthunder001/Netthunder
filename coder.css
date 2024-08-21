@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+}
+marquee{
+    background-color: rgb(47, 14, 70);
+    padding: 20px;
+    font-size: 60px;
+    color: #e61cb0;
+    border-radius: 40px;
+    grid-column: auto;
+    box-shadow: 10px 7px 20px black;
+    font-weight: bolder;
+}
+img{
+    border-radius: 40px;
+    display: block;
+    margin: auto;
+}
